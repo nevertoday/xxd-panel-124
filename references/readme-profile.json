@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 124｜Fabric Collage Whitespace: rebuilds the key subject of a photo as a fabric-collage and appliqué illustration made of a few large cloth pieces, simple silhouettes and flat patches with irregular cut edges, cotton, linen and woven textures, frayed threads and a few visible stitches or embroidery lines, in 2–4 warm, soft colours taken from the photo, with a small subject in deliberate whitespace and a few words in any language. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-124 or asks for fabric collage, appliqué, patchwork or stitched textile illustration from a photo.",
+  "short_description": "布艺拼贴留白志：用几块大布片、织纹和少量针脚，把照片拼成温暖的贴布小画",
+  "zh-CN": {
+    "name": "布艺拼贴留白志",
+    "tagline": "用几块大布片和几道针脚，把照片的主体拼成一张温暖的贴布小画。",
+    "look": "主体由几块大布片拼成：简洁的剪影、平涂色块和不规则的剪边，能看到棉麻、粗布或编织物的纹理，还有毛边、抽丝和手工拼贴的轻微错位。少量针脚、锁边线或刺绣线勾出轮廓和细节，不做复杂的立体光影。颜色从照片里挑 2–4 种最有代表性的，调成温暖柔和的布色，带一点民艺和绘本的味道。主体不大，周围是大片留白，配几个字词或短句，语种不限。",
+    "traits": [
+      "布片拼贴",
+      "贴布绣",
+      "棉麻织纹",
+      "毛边针脚",
+      "暖柔取色",
+      "主动留白"
+    ],
+    "good": [
+      "剪影简单的单个主体：一只猫、一棵树、一把茶壶、一件挂着的外套",
+      "有一两种鲜明颜色的生活照：一把红伞、一间黄色小屋、一盘橙子",
+      "想做成绘本或民艺风的童年、家居、旅行照片"
+    ],
+    "poor": [
+      "结构复杂、细节密的东西：机械、电子产品、繁复的建筑立面",
+      "需要看清五官表情的人像，或人很多的合影",
+      "想要写实、光滑矢量、3D 效果，或铺满整张的拼贴"
+    ]
+  },
+  "en": {
+    "name": "Fabric Collage Whitespace",
+    "tagline": "Pieces your photo's subject together from a few large fabric patches and stitches, like a warm appliqué picture.",
+    "look": "The subject is built from a few large pieces of cloth: simple silhouettes, flat patches and irregular cut edges, with visible cotton, linen, canvas or woven texture, frayed edges, loose threads and the slight misalignment of handwork. A few running stitches, overlock lines or embroidery threads mark outlines and details, without complex 3D shading. Two to four of the photo's most telling colours become warm, soft fabric tones with a hint of folk craft and picture books. The subject stays small in plenty of empty space, with a few words or a short phrase in any language.",
+    "traits": [
+      "Fabric patchwork",
+      "Appliqué",
+      "Cotton and linen weave",
+      "Frayed edges and stitches",
+      "Warm colours from the photo",
+      "Deliberate whitespace"
+    ],
+    "good": [
+      "A single subject with a simple silhouette: a cat, a tree, a teapot, a coat on a hook",
+      "Everyday photos with one or two strong colours: a red umbrella, a yellow cottage, a plate of oranges",
+      "Childhood, home or travel photos you want to look like a picture book or folk craft"
+    ],
+    "poor": [
+      "Complex, finely detailed things: machinery, electronics, ornate building facades",
+      "Portraits that need readable faces and expressions, or large group photos",
+      "Requests for realistic, smooth vector or 3D looks, or a collage that fills the whole frame"
+    ]
+  },
+  "ja": {
+    "name": "布コラージュの余白",
+    "tagline": "大きな布切れ数枚と少しの縫い目で、写真の主役を温かいアップリケの絵に仕立てます。",
+    "look": "主役は数枚の大きな布で組み立てます。シンプルなシルエット、平らな色面、不揃いな切り口に、綿や麻、粗い布、織物の織り目、ほつれ、糸の抜け、手作業らしい小さなずれが見えます。輪郭や細部は少しのステッチ、かがり縫い、刺繍糸で示し、複雑な立体の陰影はつけません。色は写真から代表的な 2〜4 色を選び、温かく柔らかな布の色にして、民芸や絵本のような味わいを出します。主役は小さく、周りは広い余白。単語か短い一言を添え、言語は自由です。",
+    "traits": [
+      "布のパッチワーク",
+      "アップリケ",
+      "綿麻の織り目",
+      "ほつれとステッチ",
+      "写真から取った暖色",
+      "意図的な余白"
+    ],
+    "good": [
+      "シルエットが単純な一つの主役：猫、一本の木、急須、掛けてあるコート",
+      "はっきりした色が一つ二つある日常写真：赤い傘、黄色い小屋、皿に盛ったオレンジ",
+      "絵本や民芸のような雰囲気にしたい子どもの頃、家、旅の写真"
+    ],
+    "poor": [
+      "構造が複雑で細部の多いもの：機械、電子機器、装飾の多い建物の正面",
+      "表情をはっきり見せたい人物写真や、大人数の集合写真",
+      "写実、なめらかなベクター、3D の仕上がりや、画面全体を埋めるコラージュを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "천 콜라주의 여백",
+    "tagline": "큰 천 조각 몇 장과 바느질 몇 땀으로 사진의 주인공을 따뜻한 아플리케 그림으로 꾸밉니다.",
+    "look": "주인공을 큰 천 조각 몇 장으로 조립합니다. 단순한 실루엣, 평평한 색면, 불규칙하게 자른 가장자리에 면, 마, 거친 천, 직물의 결과 올 풀림, 빠진 실, 손으로 붙인 듯한 작은 어긋남이 보입니다. 윤곽과 세부는 몇 땀의 홈질, 오버록, 자수실로 짚고, 복잡한 입체 명암은 넣지 않습니다. 색은 사진에서 가장 대표적인 2~4가지를 골라 따뜻하고 부드러운 천 색으로 바꾸어 민예품이나 그림책 같은 느낌을 줍니다. 주인공은 작고 주변은 넓은 여백이며, 단어나 짧은 문장을 언어 제한 없이 곁들입니다.",
+    "traits": [
+      "천 조각 콜라주",
+      "아플리케",
+      "면·마 직물 결",
+      "올 풀림과 바늘땀",
+      "사진에서 뽑은 따뜻한 색",
+      "의도된 여백"
+    ],
+    "good": [
+      "실루엣이 단순한 하나의 주인공: 고양이, 나무 한 그루, 찻주전자, 걸려 있는 외투",
+      "뚜렷한 색이 한두 가지 있는 일상 사진: 빨간 우산, 노란 오두막, 오렌지 한 접시",
+      "그림책이나 민예품 느낌으로 남기고 싶은 어린 시절, 집, 여행 사진"
+    ],
+    "poor": [
+      "구조가 복잡하고 세부가 촘촘한 대상: 기계, 전자 제품, 장식이 많은 건물 외관",
+      "표정을 또렷이 보여야 하는 인물 사진이나 인원이 많은 단체 사진",
+      "사실적이거나 매끈한 벡터, 3D 느낌, 또는 화면을 가득 채운 콜라주를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "فراغ كولاج القماش",
+    "tagline": "يركّب العنصر الرئيسي في صورتك من قطع قماش كبيرة وبضع غرز، كلوحة رقع دافئة.",
+    "look": "يُبنى العنصر من بضع قطع قماش كبيرة: ظلال بسيطة ومساحات لونية مسطّحة وحواف مقصوصة غير منتظمة، مع ملمس ظاهر للقطن والكتان والقماش الخشن والمنسوجات، وأطراف منسّلة وخيوط مفكوكة وانزياح خفيف يدل على العمل اليدوي. تحدّد بضع غرز أو خيوط حياكة أو تطريز الخطوط الخارجية والتفاصيل، من دون ظلال مجسّمة معقدة. تُختار من الصورة اثنان إلى أربعة من أكثر ألوانها تعبيراً وتتحول إلى ألوان قماش دافئة وناعمة فيها روح الحِرف الشعبية وكتب الأطفال المصوّرة. يبقى العنصر صغيراً وسط فراغ واسع، مع كلمات قليلة أو عبارة قصيرة بأي لغة.",
+    "traits": [
+      "كولاج القماش",
+      "تطريز الرقع",
+      "نسيج القطن والكتان",
+      "أطراف منسّلة وغرز",
+      "ألوان دافئة من الصورة",
+      "فراغ مقصود"
+    ],
+    "good": [
+      "عنصر واحد بظلّ بسيط: قطة، شجرة، إبريق شاي، معطف معلّق",
+      "صور يومية فيها لون أو لونان قويان: مظلة حمراء، كوخ أصفر، طبق برتقال",
+      "صور الطفولة أو البيت أو السفر التي تريدها بروح كتاب مصوّر أو حرفة شعبية"
+    ],
+    "poor": [
+      "أشياء معقدة كثيرة التفاصيل: الآلات، الأجهزة الإلكترونية، واجهات المباني المزخرفة",
+      "صور شخصية تحتاج إلى وضوح الملامح والتعابير، أو صور جماعية كبيرة",
+      "طلب مظهر واقعي أو رسوم متجهية ملساء أو ثلاثية الأبعاد، أو كولاج يملأ الإطار كله"
+    ]
+  }
+}
